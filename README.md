@@ -1083,8 +1083,6 @@ Information from the site: https://html5css.ru/bootstrap4/bootstrap_ref_all_clas
 <tr>
 <td><code>.float-*-right</code></td>
 <td>Поплавок элемента влево на разных экранах</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_utilities.php">Utilities</a></td>
 </tr>
 <tr>
