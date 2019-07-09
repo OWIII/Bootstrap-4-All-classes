@@ -867,13 +867,12 @@ Information from the site: https://html5css.ru/bootstrap4/bootstrap_ref_all_clas
 </tr>
 <tr>
 <td><code>.dropdown-menu</code></td>
-<td>Добавляет стили по умолчанию для контейнера раскрывающегося меню</td><td></td>
+<td>Добавляет стили по умолчанию для контейнера раскрывающегося меню</td>
 <td><a target="_blank" href="bootstrap_dropdowns.php">Dropdowns</a></td>
 </tr>
 <tr>
 <td><code>.dropdown-menu-right</code></td>
-<td>Выравнивание выпадающего меню по правому краю</td><td>
-</td>
+<td>Выравнивание выпадающего меню по правому краю</td>
 <td><a target="_blank" href="bootstrap_dropdowns.php">Dropdowns</a></td>
 </tr>
 <tr>
