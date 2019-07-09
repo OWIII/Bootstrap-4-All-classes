@@ -19,8 +19,6 @@ Information from the site:https://html5css.ru/bootstrap4/bootstrap_ref_all_class
 <tr>
 <td><code>.active</code></td>
 <td>Добавление цвета белого текста к активной ссылке в навигационной области <strong></strong>.</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_navbar.php">Navbar</a></td>
 </tr>
 <tr>
