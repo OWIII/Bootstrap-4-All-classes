@@ -1,9 +1,8 @@
 # Bootstrap-4-all-classes
-Bootstrap 4 Training
-
 Good resours: https://hackerthemes.com/bootstrap-cheatsheet/
 
 Information from the site: https://html5css.ru/bootstrap4/bootstrap_ref_all_classes.php
+
 <div></div>
 <div class="w3-responsive">
 <table width="100%" class="w3-table-all notranslate" id="myTable">
