@@ -10,7 +10,7 @@ Information from the site: https://html5css.ru/bootstrap4/bootstrap_ref_all_clas
 <thead>
 <tr class="w3-white">
 <th width="40%">Class <i class="fa fa-sort" style="font-size:13px;"></i></th>
-<th width="50%">Описание</th>
+<th width="60%">Описание</th>
 <th width="0%">Category <i class="fa fa-sort" style="font-size:13px;"></i></th>
 </tr>
 </thead>
