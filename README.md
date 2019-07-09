@@ -9,9 +9,9 @@ Information from the site: https://html5css.ru/bootstrap4/bootstrap_ref_all_clas
 <table class="w3-table-all notranslate" id="myTable">
 <thead>
 <tr class="w3-white">
-<th style="width:40%">Class <i class="fa fa-sort" style="font-size:13px;"></i></th>
-<th style="width:40%">Описание</th>
-<th style="width:20%">Category <i class="fa fa-sort" style="font-size:13px;"></i></th>
+<th>Class <i class="fa fa-sort" style="font-size:13px;"></i></th>
+<th>Описание</th>
+<th>Category <i class="fa fa-sort" style="font-size:13px;"></i></th>
 </tr>
 </thead>
 <tbody>
