@@ -4,7 +4,7 @@ Bootstrap 4 Training
 Good resours: https://hackerthemes.com/bootstrap-cheatsheet/
 
 Information from the site: https://html5css.ru/bootstrap4/bootstrap_ref_all_classes.php
-
+<center>
 <div class="w3-responsive">
 <table class="w3-table-all notranslate" id="myTable">
 <thead>
@@ -2225,3 +2225,4 @@ Information from the site: https://html5css.ru/bootstrap4/bootstrap_ref_all_clas
 </tbody>
 </table>
 </div>
+ <center>
