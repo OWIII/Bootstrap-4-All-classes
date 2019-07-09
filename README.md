@@ -11,7 +11,6 @@ Information from the site:https://html5css.ru/bootstrap4/bootstrap_ref_all_class
 <tr class="w3-white">
 <th style="width:25%;cursor:pointer;user-select:none;">Class <i class="fa fa-sort" style="font-size:13px;"></i></th>
 <th style="width:51%;" onclick="javascript:void(0)">Описание</th>
-<th style="width:7%;" onclick="return false;"></th>
 <th style="width:17%;cursor:pointer;user-select:none;">Category <i class="fa fa-sort" style="font-size:13px;"></i></th>
 </tr>
 </thead>
