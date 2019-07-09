@@ -4,9 +4,9 @@ Bootstrap 4 Training
 Good resours: https://hackerthemes.com/bootstrap-cheatsheet/
 
 Information from the site: https://html5css.ru/bootstrap4/bootstrap_ref_all_classes.php
-<center>
+<div></div>
 <div class="w3-responsive">
-<table class="w3-table-all notranslate" id="myTable">
+<table width="100%" class="w3-table-all notranslate" id="myTable">
 <thead>
 <tr class="w3-white">
 <th width="35%">Class <i class="fa fa-sort" style="font-size:13px;"></i></th>
