@@ -6,12 +6,12 @@ Good resours: https://hackerthemes.com/bootstrap-cheatsheet/
 Information from the site: https://html5css.ru/bootstrap4/bootstrap_ref_all_classes.php
 
 <div class="w3-responsive">
-<table class="w3-table-all notranslate" id="myTable" width="100%">
+<table class="w3-table-all notranslate" id="myTable">
 <thead>
 <tr class="w3-white">
-<th style="width:40%;cursor:pointer;user-select:none;">Class <i class="fa fa-sort" style="font-size:13px;"></i></th>
-<th style="width:40%; onclick="javascript:void(0)">Описание</th>
-<th style="width:20%;cursor:pointer;user-select:none;">Category <i class="fa fa-sort" style="font-size:13px;"></i></th>
+<th style="width:40%">Class <i class="fa fa-sort" style="font-size:13px;"></i></th>
+<th style="width:40%">Описание</th>
+<th style="width:20%">Category <i class="fa fa-sort" style="font-size:13px;"></i></th>
 </tr>
 </thead>
 <tbody>
@@ -303,792 +303,571 @@ Information from the site: https://html5css.ru/bootstrap4/bootstrap_ref_all_clas
 <tr>
 <td><code>.badge-info</code></td>
 <td>Значок синего. Указывает нейтральное информативное изменение или действие</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_badges.php">Badges</a></td>
 </tr>
 <tr>
 <td><code>.badge-light</code></td>
 <td>Светлый значок. Светлая серая коробка оповещения</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_badges.php">Badges</a></td>
 </tr>
 <tr>
 <td><code>.badge-pill</code></td>
 <td>Делает значок более круглым</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_badges.php">Badges</a></td>
 </tr>
 <tr>
 <td><code>.badge-primary</code></td>
 <td>Синий значок. Указывает на важное действие</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_badges.php">Badges</a></td>
 </tr>
 <tr>
 <td><code>.badge-secondary</code></td>
 <td>Серый значок. Указывает на "менее" важное действие</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_badges.php">Badges</a></td>
 </tr>
 <tr>
 <td><code>.badge-success</code></td>
 <td>Зелёный значок. Указывает на успешное или положительное действие</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_badges.php">Badges</a></td>
 </tr>
 <tr>
 <td><code>.badge-warning</code></td>
 <td>Желтый значок. Указывает на осторожность следует принимать с этим действием</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_badges.php">Badges</a></td>
 </tr>
 <tr>
 <td><code>.bg-danger</code></td>
 <td>Добавляет красный цвет фона к элементу. Представляет опасность или отрицательное действие</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_colors.php">Colors</a></td>
 </tr>
 <tr>
 <td><code>.bg-dark</code></td>
 <td>Добавляет темный серый цвет фона к элементу</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_colors.php">Colors</a></td>
 </tr>
 <tr>
 <td><code>.bg-info</code></td>
 <td>Добавляет бирюзовый цвет фона к элементу. Представляет некоторую информацию</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_colors.php">Colors</a></td>
 </tr>
 <tr>
 <td><code>.bg-light</code></td>
 <td>Добавление светло-серого цвета фона к элементу</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_colors.php">Colors</a></td>
 </tr>
 <tr>
 <td><code>.bg-primary</code></td>
 <td>Добавляет синий цвет фона к элементу. Представляет что-то важное</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_colors.php">Colors</a></td>
 </tr>
 <tr>
 <td><code>.bg-secondary</code></td>
 <td>Добавляет серый цвет фона к элементу. Указывает на "менее" важное действие</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_colors.php">Colors</a></td>
 </tr>
 <tr>
 <td><code>.bg-success</code></td>
 <td>Добавляет зеленый цвет фона к элементу. Указывает на успех или положительное действие</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_colors.php">Colors</a></td>
 </tr>
 <tr>
 <td><code>.bg-warning</code></td>
 <td>Добавляет желтый/оранжевый цвет фона к элементу. Представляет предупреждение или отрицательное действие</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_colors.php">Colors</a></td>
 </tr>
 <tr>
 <td><code>.blockquote</code></td>
 <td>Styles цитирует блоки содержимого из другого источника (добавляет больший размер шрифта (1.25 REM))</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_typography.php">Typography</a></td>
 </tr>
 <tr>
 <td><code>.blockquote-footer</code></td>
 <td>Стили заголовок источника внутри цитата (светло-серый текст с отступом)</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_typography.php">Typography</a></td>
 </tr>
 <tr>
 <td><code>.border</code></td>
 <td>Добавление границы к элементу</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_utilities.php">Utilities</a></td>
 </tr>
 <tr>
 <td><code>.border-bottom-0</code></td>
 <td>Удаление нижней границы элемента</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_utilities.php">Utilities</a></td>
 </tr>
 <tr>
 <td><code>.border-danger</code></td>
 <td>Добавляет красную границу к элементу (указывает на опасность)</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_utilities.php">Utilities</a></td>
 </tr>
 <tr>
 <td><code>.border-dark</code></td>
 <td>Добавление темной границы к элементу</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_utilities.php">Utilities</a></td>
 </tr>
 <tr>
 <td><code>.border-info</code></td>
 <td>Добавление синей границы к элементу (обозначает информацию)</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_utilities.php">Utilities</a></td>
 </tr>
 <tr>
 <td><code>.border-left-0</code></td>
 <td>Удаляет левую границу из элемента</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_utilities.php">Utilities</a></td>
 </tr>
 <tr>
 <td><code>.border-light</code></td>
 <td>Добавление светло-серой границы к элементу</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_utilities.php">Utilities</a></td>
 </tr>
 <tr>
 <td><code>.border-primary</code></td>
 <td>Добавление синей границы к элементу</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_utilities.php">Utilities</a></td>
 </tr>
 <tr>
 <td><code>.border-right-0</code></td>
 <td>Удаление правой границы элемента</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_utilities.php">Utilities</a></td>
 </tr>
 <tr>
 <td><code>.border-top-0</code></td>
 <td>Удаление верхней границы элемента</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_utilities.php">Utilities</a></td>
 </tr>
 <tr>
 <td><code>.border-secondary</code></td>
 <td>Добавление серой границы к элементу</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_utilities.php">Utilities</a></td>
 </tr>
 <tr>
 <td><code>.border-success</code></td>
 <td>Добавление зеленой границы к элементу (указывает на успешное завершение)</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_utilities.php">Utilities</a></td>
 </tr>
 <tr>
 <td><code>.border-warning</code></td>
 <td>Добавление оранжевой границы к элементу (указывает на предупреждение)</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_utilities.php">Utilities</a></td>
 </tr>
 <tr>
 <td><code>.border-white</code></td>
 <td>Добавление белой границы к элементу</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_utilities.php">Utilities</a></td>
 </tr>
 <tr>
 <td><code>.border-0</code></td>
 <td>Удаляет все границы элемента</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_utilities.php">Utilities</a></td>
 </tr>
 <tr>
 <td><code>.breadcrumb</code></td>
 <td>Разбиение на страницы. Указывает расположение текущей страницы в навигационной иерархии</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_pagination.php">Pagination</a></td>
 </tr>
 <tr>
 <td><code>.breadcrumb-item</code></td>
 <td>Стили — элементы списка или ссылки внутри цепочки навигации</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_pagination.php">Pagination</a></td>
 </tr>
 <tr>
 <td><code>.btn</code></td>
 <td>Создание базовой кнопки (серый фон и закругленные углы)</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_buttons.php">Buttons</a></td>
 </tr>
 <tr>
 <td><code>.btn-block</code></td>
 <td>Создает кнопку уровня блока, охватывающую всю ширину родительского элемента</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_buttons.php">Buttons</a></td>
 </tr>
 <tr>
 <td><code>.btn-dark</code></td>
 <td>Темная серая кнопка</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_buttons.php">Buttons</a></td>
 </tr>
 <tr>
 <td><code>.btn-danger</code></td>
 <td>Красная кнопка. Указывает на опасность или отрицательное действие</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_buttons.php">Buttons</a></td>
 </tr>
 <tr>
 <td><code>.btn-group</code></td>
 <td>Группирует кнопки вместе в одной строке</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_button_groups.php">Button Groups</a></td>
 </tr>
 <tr>
 <td><code>.btn-group-lg</code></td>
 <td>Большая группа кнопок (делает все кнопки в группе кнопок больше-увеличенный размер шрифта и заполнение)</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_button_groups.php">Button Groups</a></td>
 </tr>
 <tr>
 <td><code>.btn-group-sm</code></td>
 <td>Малая группа кнопок (делает все кнопки в группе кнопок меньше)</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_button_groups.php">Button Groups</a></td>
 </tr>
 <tr>
 <td><code>.btn-group-vertical</code></td>
 <td>Заставляет группу кнопок отображаться вертикально в сложенном виде</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_button_groups.php">Button Groups</a></td>
 </tr>
 <tr>
 <td><code>.btn-info</code></td>
 <td>Синей кнопке. Представляет нейтральное информативное изменение или действие</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_buttons.php">Buttons</a></td>
 </tr>
 <tr>
 <td><code>.btn-light</code></td>
 <td>Светлая серая кнопка</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_buttons.php">Buttons</a></td>
 </tr>
 <tr>
 <td><code>.btn-link</code></td>
 <td>Делает кнопку похожую на ссылку (поведение кнопки Get)</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_buttons.php">Buttons</a></td>
 </tr>
 <tr>
 <td><code>.btn-lg</code></td>
 <td>Большая кнопка</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_buttons.php">Buttons</a></td>
 </tr>
 <tr>
 <td><code>.btn-outline-dark</code></td>
 <td>Темная серая граница/Контурная кнопка</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_buttons.php">Buttons</a></td>
 </tr>
 <tr>
 <td><code>.btn-outline-danger</code></td>
 <td>Красная граница/Контурная кнопка. Указывает на опасность или отрицательное действие</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_buttons.php">Buttons</a></td>
 </tr>
 <tr>
 <td><code>.btn-outline-info</code></td>
 <td>Бирюзовая граница/Контурная кнопка. Представляет нейтральное информативное изменение или действие</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_buttons.php">Buttons</a></td>
 </tr>
 <tr>
 <td><code>.btn-outline-light</code></td>
 <td>Светлая серая граница/Контурная кнопка</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_buttons.php">Buttons</a></td>
 </tr>
 <tr>
 <td><code>.btn-outline-primary</code></td>
 <td>Синяя граница/Контурная кнопка.</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_buttons.php">Buttons</a></td>
 </tr>
 <tr>
 <td><code>.btn-outline-secondary</code></td>
 <td>Серая граница/Контурная кнопка. Указывает на "менее" важное действие</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_buttons.php">Buttons</a></td>
 </tr>
 <tr>
 <td><code>.btn-outline-success</code></td>
 <td>Зеленая граница/Контурная кнопка. Указывает на успех или положительное действие</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_buttons.php">Buttons</a></td>
 </tr>
 <tr>
 <td><code>.btn-outline-warning</code></td>
 <td>Оранжевая граница/Контурная кнопка. Представляет предупреждение или отрицательное действие</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_buttons.php">Buttons</a></td>
 </tr>
 <tr>
 <td><code>.btn-primary</code></td>
 <td>Синяя кнопка. Указывает на что-то важное</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_buttons.php">Buttons</a></td>
 </tr>
 <tr>
 <td><code>.btn-sm</code></td>
 <td>Маленькая кнопка</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_buttons.php">Buttons</a></td>
 </tr>
 <tr>
 <td><code>.btn-secondary</code></td>
 <td>Серая кнопка. Указывает на "менее" важное действие</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_buttons.php">Buttons</a></td>
 </tr>
 <tr>
 <td><code>.btn-success</code></td>
 <td>Зеленая кнопка. Указывает на успех или положительное действие</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_buttons.php">Buttons</a></td>
 </tr>
 <tr>
 <td><code>.btn-toolbar</code></td>
 <td>Объединение наборов кнопок в панели инструментов кнопок для более сложных компонентов</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_button_groups.php">Button Groups</a></td>
 </tr>
 <tr>
 <td><code>.btn-warning</code></td>
 <td>Оранжевая кнопка. Представляет предупреждение или отрицательное действие</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_buttons.php">Buttons</a></td>
 </tr>
 <tr>
 <td><code>.card</code></td>
 <td>Создает карточку</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_cards.php">Cards</a></td>
 </tr>
 <tr>
 <td><code>.card-body</code></td>
 <td>Контейнер для содержимого карты</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_cards.php">Cards</a></td>
 </tr>
 <tr>
 <td><code>.card-columns</code></td>
 <td>Контейнер для создания кладки, как сетка карт</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_cards.php">Cards</a></td>
 </tr>
 <tr>
  <td><code>.card-danger</code></td>
 <td>Добавляет на карточку красный цвет фона. Представляет опасность или отрицательное действие</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_cards.php">Cards</a></td>
 </tr>
 <tr>
 <td><code>.card-dark</code></td>
 <td>Добавляет серый цвет фона к карточке</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_cards.php">Cards</a></td>
 </tr>
 <tr>
 <td><code>.card-deck</code></td>
 <td>Контейнер для создания сетки карт с одинаковой высотой и шириной</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_cards.php">Cards</a></td>
 </tr>
 <tr>
 <td><code>.card-footer</code></td>
 <td>Нижний колонтитул карты</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_cards.php">Cards</a></td>
 </tr>
 <tr>
 <td><code>.card-group</code></td>
 <td>Контейнер для создания сетки карт, которые имеют одинаковую высоту и ширину, <strong>без боковых полей</strong></td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_cards.php">Cards</a></td>
 </tr>
 <tr>
 <td><code>.card-header</code></td>
 <td>Заголовок карты</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_cards.php">Cards</a></td>
 </tr>
 <tr>
 <td><code>.card-header-tabs</code></td>
 <td>Стили навигации вкладки внутри заголовка карты</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_cards.php">Cards</a></td>
 </tr>
 <tr>
 <td><code>.card-header-pills</code></td>
 <td>Стили навигационных таблеток внутри заголовка карты</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_cards.php">Cards</a></td>
 </tr>
 <tr>
 <td><code>.card-img-bottom</code></td>
 <td>Поместите изображение снизу внутри карты</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_cards.php">Cards</a></td>
 </tr>
 <tr>
 <td><code>.card-img-overlay</code></td>
 <td>Превращает изображение в фон карты. Часто используется для добавления текста поверх изображения</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_cards.php">Cards</a></td>
 </tr>
 <tr>
 <td><code>.card-img-top</code></td>
 <td>Поместите изображение вверху внутри карты</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_cards.php">Cards</a></td>
 </tr>
 <tr>
 <td><code>.card-info</code></td>
 <td>Добавляет цвет синего цвета к карточке. Представляет некоторую информацию</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_cards.php">Cards</a></td>
 </tr>
 <tr>
 <td><code>.card-light</code></td>
 <td>Добавляет светло-серый цвет фона к карточке</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_cards.php">Cards</a></td>
 </tr>
 <tr>
 <td><code>.card-link</code></td>
 <td>Добавляет синий цвет к любой ссылке и наведите эффект внутри карты</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_cards.php">Cards</a></td>
 </tr>
 <tr>
 <td><code>.card-primary</code></td>
 <td>Добавляет голубой цвет фона к карточке. Представляет что-то важное</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_cards.php">Cards</a></td>
 </tr>
 <tr>
 <td><code>.card-secondary</code></td>
 <td>Добавляет серый цвет фона к карточке. Представляет что-то "менее" важное</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_cards.php">Cards</a></td>
 </tr>
 <tr>
 <td><code>.card-subtitle</code></td>
 <td><code>.card-subtitle</code>используется после a <code>.card-title</code> и добавляет в элемент следующее:<code>margin-top: -.375rem; margin-bottom: 0;</code></td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_cards.php">Cards</a></td>
 </tr>
 <tr>
 <td><code>.card-success</code></td>
 <td>Добавляет зеленый цвет фона к карточке. Указывает на успех или положительное действие</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_cards.php">Cards</a></td>
 </tr>
 <tr>
 <td><code>.card-text</code></td>
 <td>Используется для удаления нижнего поля для элемента p, если он является последним дочерним элементом (или единственным), внутри<code>.card-body</code></td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_cards.php">Cards</a></td>
 </tr>
 <tr>
 <td><code>.card-title</code></td>
 <td>Добавляет заголовок к любому элементу заголовка внутри карточки</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_cards.php">Cards</a></td>
 </tr>
 <tr>
 <td><code>.card-warning</code></td>
 <td>Добавляет желтый/оранжевый цвет фона на карточку. Представляет предупреждение или отрицательное действие</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_cards.php">Cards</a></td>
 </tr>
 <tr>
 <td><code>.carousel</code></td>
 <td>Создает Карусель (слайд-шоу)</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_carousel.php">Carousel</a></td>
 </tr>
 <tr>
 <td><code>.carousel-caption</code></td>
 <td>Создает текст заголовка для каждого слайда в карусели</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_carousel.php">Carousel</a></td>
 </tr>
 <tr>
 <td><code>.carousel-control-next</code></td>
 <td>Контейнер для "Next" Карусель/пункт Ссылка</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_carousel.php">Carousel</a></td>
 </tr>
 <tr>
 <td><code>.carousel-control-next-icon</code></td>
 <td>Используется вместе с <code>.carousel-control-next</code> для создания "следующий" значок/Кнопка (стрелка вправо)</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_carousel.php">Carousel</a></td>
 </tr>
 <tr>
 <td><code>.carousel-control-prev</code></td>
 <td>Контейнер для "Предыдущий" Карусель/пункт Ссылка</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_carousel.php">Carousel</a></td>
 </tr>
 <tr>
 <td><code>.carousel-control-prev-icon</code></td>
 <td>Используется вместе с <code>.carousel-control-prev</code> для создания "Предыдущий" значок/Кнопка (влево-заостренные стрелки)</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_carousel.php">Carousel</a></td>
 </tr>
 <tr>
 <td><code>.carousel-indicators</code></td>
 <td>Добавляет маленькие точки/индикаторы в нижней части каждого слайда (который показывает, сколько слайдов есть в карусели, и какой слайд пользователь в настоящее время просмотра)</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_carousel.php">Carousel</a></td>
 </tr>
 <tr>
 <td><code>.carousel-inner</code></td>
 <td>Контейнер для элементов слайда</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_carousel.php">Carousel</a></td>
 </tr>
 <tr>
 <td><code>.carousel-item</code></td>
 <td>Задает содержимое каждого слайда</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_carousel.php">Carousel</a></td>
 </tr>
 <tr>
 <td><code>.clearfix</code></td>
 <td>Очищает поплавки</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_utilites.php">Utilities</a></td>
 </tr>
 <tr>
 <td><code>.close</code></td>
 <td>Стиль значка закрытия. Часто используется для оповещений и модальностей. Часто используется вместе с &amp; Times; символ, чтобы создать фактический значок (лучше лукионг "x"). Он плавает вправо по умолчанию</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_utilites.php">Utilities</a></td>
 </tr>
 <tr>
 <td><code>.col-*</code></td>
 <td>Создает раскладку столбцов для дополнительных мелких устройств (<strong>и вверх/все устройства</strong>, если они не объединены с другими классами столбцов). <code class="w3-codespan">*</code>может быть число от 1 до 12</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_grid_system.php">Grid System</a></td>
 </tr>
 <tr>
 <td><code>.col-sm-*</code></td>
 <td>Создает макет столбца для небольших устройств (<strong>и вверх</strong>, если не объединен с другими классами столбцов). <code class="w3-codespan">*</code>может быть число от 1 до 12</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_grid_system.php">Grid System</a></td>
 </tr>
 <tr>
 <td><code>.col-md-*</code></td>
 <td>Создает макет столбца для средних устройств (<strong>и вверх</strong>, если не сочетается с другими классами столбцов). <code class="w3-codespan">*</code>может быть число от 1 до 12</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_grid_system.php">Grid System</a></td>
 </tr>
 <tr>
 <td><code>.col-lg-*</code></td>
 <td>Создает макет столбца для больших устройств (<strong>и вверх</strong>, если не сочетается с другими классами столбцов). <code class="w3-codespan">*</code>может быть число от 1 до 12</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_grid_system.php">Grid System</a></td>
 </tr>
 <tr>
 <td><code>.col-xl-*</code></td>
 <td>Создание макета столбца для дополнительных больших устройств. <code class="w3-codespan">*</code>может быть число от 1 до 12</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_grid_system.php">Grid System</a></td>
 </tr>
 <tr>
 <td><code>.collapse</code></td>
 <td>Обозначает складное содержимое, которое может быть скрыто или показано по требованию</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_collapse.php">Collapse</a></td>
 </tr>
 <tr>
 <td><code>.collapse show</code></td>
 <td>Показать складное содержимое по умолчанию</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_collapse.php">Collapse</a></td>
 </tr>
 <tr>
 <td><code>.container</code></td>
 <td>Фиксированная ширина контейнера с шириной определяется экран сайтов. Равное поле слева и справа.</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_get_started.php">Containers</a></td>
 </tr>
 <tr>
 <td><code>.container-fluid</code></td>
 <td>Контейнер, охватывающий всю ширину экрана</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_get_started.php">Containers</a></td>
 </tr>
 <tr>
 <td><code>.disabled</code></td>
 <td>Отключает <strong>кнопку</strong> (добавляет непрозрачность и значок "нет парковки-знак" при наведении)</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_buttons.php">Buttons</a></td>
 </tr>
 <tr>
 <td><code>.disabled</code></td>
 <td>Отключает <strong>выпадающий</strong> элемент (добавляет серый цвет текста и значок "нет парковки-знак" при наведении)</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_dropdowns.php">Dropdowns</a></td>
 </tr>
 <tr>
 <td><code>.disabled</code></td>
 <td>Отключает ссылку на разбиение на <strong>страницы</strong> (не может быть нажата-добавляет серый цвет текста и значок "нет парковки-знак" при наведении)</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_pagination.php">Pagination</a></td>
 </tr>
 <tr>
 <td><code>.disabled</code></td>
 <td>Отключает элемент <strong>списка</strong> в группе списка (не может быть нажата-добавляет светло-серый цвет и удаляет эффект наведения на ссылки элемента списка)</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_list_groups.php">List Groups</a></td>
 </tr>
 <tr>
 <td><code>.dropdown</code></td>
 <td>Создание переключаемого меню, позволяющего пользователю выбрать одно значение из стандартного списка</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_dropdowns.php">Dropdowns</a></td>
 </tr>
 <tr>
 <td><code>.dropdown-divider</code></td>
 <td>Используется для разделения ссылок в выпадающем меню с тонкой горизонтальной границей</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_dropdowns.php">Dropdowns</a></td>
 </tr>
 <tr>
 <td><code>.dropdown-header</code></td>
 <td>Используется для добавления заголовков внутри раскрывающегося меню</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_dropdowns.php">Dropdowns</a></td>
 </tr>
 <tr>
 <td><code>.dropdown-item</code></td>
 <td>Создает раскрывающийся элемент (добавляется к ссылкам или кнопкам внутри. раскрывающееся меню)</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_dropdowns.php">Dropdowns</a></td>
 </tr>
 <tr>
 <td><code>.dropdown-item-text</code></td>
  <td>Используется для добавления простого текста в раскрывающийся список или используется для ссылок для стиля ссылок по умолчанию</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_dropdowns.php">Dropdowns</a></td>
 </tr>
 <tr>
 <td><code>.dropdown-menu</code></td>
 <td>Добавляет стили по умолчанию для контейнера раскрывающегося меню</td><td></td>
-
 <td><a target="_blank" href="bootstrap_dropdowns.php">Dropdowns</a></td>
 </tr>
 <tr>
@@ -1100,169 +879,121 @@ Information from the site: https://html5css.ru/bootstrap4/bootstrap_ref_all_clas
 <tr>
 <td><code>.dropdown-toggle</code></td>
 <td>Используется на кнопке, которая должна скрывать и показывать (переключать) раскрывающееся меню</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_dropdowns.php">Dropdowns</a></td>
 </tr>
 <tr>
 <td><code>.dropleft</code></td>
 <td>Влево-выравнивание раскрывающегося списка</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_dropdowns.php">Dropdowns</a></td>
 </tr>
 <tr>
 <td><code>.dropright</code></td>
 <td>Выравнивание по правому краю раскрывающегося списка</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_dropdowns.php">Dropdowns</a></td>
 </tr>
 <tr>
 <td><code>.dropup</code></td>
 <td>Указывает дропуп меню (вверх, а не вниз)</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_dropdowns.php">Dropdowns</a></td>
 </tr>
 <tr>
 <td><code>.d-block</code></td>
 <td>Создание элемента блока (Добавляет <code>display:block</code> )</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_utilities.php">Utilities</a></td>
 </tr>
 <tr>
 <td><code>.d-*-block</code></td>
 <td>Создание элемента блока на определенной ширине экрана</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_utilities.php">Utilities</a></td>
 </tr>
 <tr>
 <td><code>.d-flex</code></td>
 <td>Создание контейнера Flexbox и преобразование прямых дочерних элементов в элементы Flex</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.d-*-flex</code></td>
 <td>Создает контейнер Flexbox для определенного размера экрана</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.d-inline-flex</code></td>
 <td>Создает встроенный контейнер Flexbox</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.d-*-inline-flex</code></td>
 <td>Создает встроенный контейнер Flexbox для определенного размера экрана</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.embed-responsive</code></td>
 <td>Контейнер для встроенного содержимого. Позволяет правильно масштабировать видео или слайд-шоу на любом устройстве</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_images.php">Images</a></td>
 </tr>
 <tr>
 <td><code>.embed-responsive-16by9</code></td>
 <td>Контейнер для встроенного содержимого. Создает соотношение сторон 16:9, встроенное содержимое</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_images.php">Images</a></td>
 </tr>
 <tr>
 <td><code>.embed-responsive-4by3</code></td>
 <td>Контейнер для встроенного содержимого. Создает соотношение сторон 4:3, встроенное содержимое</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_images.php">Images</a></td>
 </tr>
 <tr>
 <td><code>.embed-responsive-item</code></td>
 <td>Используется внутри <code>.embed-responsive</code> . Масштабирование видео красиво к родительскому элементу</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_images.php">Images</a></td>
 </tr>
 <tr>
 <td><code>.fade</code></td>
 <td>Добавление эффекта затухания при закрытии окна оповещения</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_alerts.php">Alerts</a></td>
 </tr>
 <tr>
 <td><code>.fade</code></td>
 <td>Добавляет эффект затухания при показе содержимого вкладки/таблетки</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_navs.php">Navs</a></td>
 </tr>
 <tr>
 <td><code>.fade</code></td>
 <td>Добавляет эффект затухания при открытии модального</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_modal.php">Modal</a></td>
 </tr>
 <tr>
 <td><code>.fixed-bottom</code></td>
 <td>Делает элемент оставаться в нижней части экрана (липкий/фиксированный)</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_utilities.php">Utilities</a></td>
 </tr>
 <tr>
 <td><code>.fixed-top</code></td>
 <td>Делает элемент оставаться в верхней части экрана (липкий/фиксированный)</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_utilities.php">Utilities</a></td>
 </tr>
 <tr>
 <td><code>.flex-column</code></td>
 <td>Отображать гибкие элементы по вертикали</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.flex-*-column</code></td>
 <td>Отображать гибкие элементы по вертикали на различных размерах экрана:</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.flex-column-reverse</code></td>
 <td>Отображать гибкие элементы по вертикали, в обратном порядке</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.flex-*-column-reverse</code></td>
 <td>Отображать гибкие элементы по вертикали, в обратном направлении на различных размерах экрана</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.flex-fill</code></td>
 <td>Используется для элементов Flex для принудительного его/их в столбцы с одинаковой шириной</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
