@@ -3,7 +3,7 @@ Bootstrap 4 Training
 
 Good resours: https://hackerthemes.com/bootstrap-cheatsheet/
 
-Information from the site:https://html5css.ru/bootstrap4/bootstrap_ref_all_classes.php
+Information from the site: https://html5css.ru/bootstrap4/bootstrap_ref_all_classes.php
 
 <div class="w3-responsive">
 <table class="w3-table-all notranslate" id="myTable">
@@ -23,343 +23,281 @@ Information from the site:https://html5css.ru/bootstrap4/bootstrap_ref_all_class
 <tr>
 <td><code>.active</code></td>
 <td>Добавление синего цвета фона к элементу активного <strong>списка</strong> в группе списков</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_list_groups.php">List Groups</a></td>
 </tr>
 <tr>
 <td><code>.active</code></td>
 <td>Добавление темно-синего цвета фона для имитации нажатой <strong>кнопки</strong></td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_buttons.php">Buttons</a></td>
 </tr>
 <tr>
 <td><code>.active</code></td>
 <td>Добавляет синий цвет фона для активного раскрывающегося <strong>элемента</strong> в раскрывающемся списке</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_dropdowns.php">Dropdowns</a></td>
 </tr>
 <tr>
 <td><code>.active</code></td>
 <td>Добавление синего цвета фона в активную ссылку <strong>разбиения</strong> на страницы (для выделения текущей страницы)</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_pagination.php">Pagination</a></td>
 </tr>
 <tr>
 <td><code>.active</code></td>
 <td>Отображает/показывает текущий элемент <strong>карусели</strong></td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_carousel.php">Carousel</a></td>
 </tr>
 <tr>
 <td>.<code>alert</code></td>
 <td>Создает окно сообщения предупреждения</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_alerts.php">Alerts</a></td>
 </tr>
 <tr>
 <td><code>.alert-danger</code></td>
 <td>Тревога. Указывает на опасное или потенциально отрицательное действие</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_alerts.php">Alerts</a></td>
 </tr>
 <tr>
 <td><code>.alert-dark</code></td>
 <td>Темная тревога. Темно-серый окно оповещения</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_alerts.php">Alerts</a></td>
 </tr>
 <tr>
 <td><code>.alert-dismissible</code></td>
 <td>Указывает закрывающееся окно оповещения. Вместе с <code>.close</code> классом этот класс используется для закрытия оповещения (добавляет дополнительные отступы)</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_alerts.php">Alerts</a></td>
 </tr>
 <tr>
 <td><code>.alert-heading</code></td>
 <td>Добавляет <code>color:inherit</code> к указанному элементу</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_alerts.php">Alerts</a></td>
 </tr>
 <tr>
 <td><code>.alert-info</code></td>
 <td>Синее оповещение. Указывает нейтральное информативное изменение или действие</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_alerts.php">Alerts</a></td>
 </tr>
 <tr>
 <td><code>.alert-light</code></td>
 <td>Сигнал тревоги. Светлая серая коробка оповещения</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_alerts.php">Alerts</a></td>
 </tr>
 <tr>
 <td><code>.alert-link</code></td>
 <td>Используется на ссылки внутри оповещения для обеспечения соответствия цветные ссылки</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_alerts.php">Alerts</a></td>
 </tr>
 <tr>
 <td><code>.alert-primary</code></td>
 <td>Синяя тревога. Указывает на важное действие</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_alerts.php">Alerts</a></td>
 </tr>
 <tr>
 <td><code>.alert-secondary</code></td>
 <td>Серый сигнал тревоги. Указывает на "менее" важное действие</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_alerts.php">Alerts</a></td>
 </tr>
 <tr>
 <td><code>.alert-success</code></td>
 <td>Зеленая тревога. Указывает на успешное или положительное действие</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_alerts.php">Alerts</a></td>
 </tr>
 <tr>
 <td><code>.alert-warning</code></td>
 <td>Желтый сигнал тревоги. Указывает на осторожность следует принимать с этим действием</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_alerts.php">Alerts</a></td>
 </tr>
 <tr>
 <td><code>.align-baseline</code></td>
 <td>Элемент выравнивается по базовой линии родительского элемента. Это значение по умолчанию</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_utilities.php">Utilities</a></td>
 </tr>
 <tr>
 <td><code>.align-bottom</code></td>
 <td>Элемент выравнивается по нижнему элементу в строке</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_utilities.php">Utilities</a></td>
 </tr>
 <tr>
 <td><code>.align-middle</code></td>
 <td>Элемент помещается в середину родительского элемента</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_utilities.php">Utilities</a></td>
 </tr>
 <tr>
 <td><code>.align-top</code></td>
 <td>Элемент выравнивается по верхней части самого высокого элемента на линии</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_utilities.php">Utilities</a></td>
 </tr>
 <tr>
 <td><code>.align-text-top</code></td>
 <td>Элемент выравнивается по верхнему краю шрифта родительского элемента</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_utilities.php">Utilities</a></td>
 </tr>
 <tr>
 <td><code>.align-text-bottom</code></td>
 <td>Элемент выравнивается по нижнему краю шрифта родительского элемента</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_utilities.php">Utilities</a></td>
 </tr>
 <tr>
 <td><code>.align-content-around</code></td>
 <td>Выравнивание собранных элементов "вокруг"</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.align-content-*-around</code></td>
 <td>Выравнивание собранных элементов "вокруг" на разных экранах</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.align-content-center</code></td>
 <td>Выравнивание собранных элементов по центру</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.align-content-*-center</code></td>
 <td>Выравнивание собранных элементов в центре на разных экранах</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.align-content-end</code></td>
 <td>Выравнивание собранных элементов в конце</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.align-content-*-end</code></td>
 <td>Выравнивание собранных элементов в конце на разных экранах</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.align-content-start</code></td>
 <td>Выравнивание собранных элементов с начала</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.align-content-*-start</code></td>
 <td>Выравнивание собранных элементов с начала на разных экранах</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.align-content-stretch</code></td>
 <td>Растянуть собранные элементы</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.align-content-*-stretch</code></td>
 <td>Растянуть собранные элементы на разных экранах</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.align-items-start</code></td>
 <td>Выравнивание отдельных строк элементов с начала</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.align-items-*-start</code></td>
 <td>Выравнивание отдельных рядов элементов с начала на разных экранах</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.align-items-end</code></td>
 <td>Выравнивание отдельных строк элементов в конце</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.align-items-*-end</code></td>
 <td>Выравнивание отдельных рядов элементов в конце на разных экранах</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.align-items-center</code></td>
 <td>Выравнивание отдельных строк элементов в центре</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.align-items-*-center</code></td>
 <td>Выравнивание одиночных рядов элементов в центре на разных экранах</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.align-items-baseline</code></td>
 <td>Выравнивание отдельных строк элементов по базовой линии</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.align-items-*-baseline</code></td>
 <td>Выравнивание отдельных строк элементов в базовой линии на разных экранах</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.align-items-stretch</code></td>
 <td>Растянуть отдельные строки элементов</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.align-items-*-stretch</code></td>
 <td>Растянуть отдельные ряды элементов на разных экранах</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.align-self-start</code></td>
 <td>Выравнивание элемента Flex с начала</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.align-self-*-start</code></td>
 <td>Выравнивание элемента Flex с начала на разных экранах</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.align-self-end</code></td>
 <td>Выравнивание элемента Flex в конце</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.align-self-*-end</code></td>
 <td>Выравнивание элемента Flex в конце на разных экранах</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.align-self-center</code></td>
 <td>Выравнивание элемента Flex в центре</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.align-self-*-center</code></td>
 <td>Выравнивание элемента Flex в центре на разных экранах</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.align-self-baseline</code></td>
 <td>Выравнивание элемента Flex по базовой линии</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.align-self-*-start</code></td>
 <td>Выравнивание элемента Flex по базовой линии на разных экранах</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.align-self-stretch</code></td>
 <td>Растянуть гибкий элемент</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.align-self-*-stretch</code></td>
 <td>Растянуть гибкий элемент на разных экранах</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_flex.php">Flex</a></td>
 </tr>
 <tr>
 <td><code>.badge</code></td>
 <td>Создает круглый значок (серый круг-часто используется в качестве числового индикатора)</td>
-<td>
-</td>
 <td><a target="_blank" href="bootstrap_badges.php">Badges</a></td>
 </tr>
 <tr>
 <td><code>.badge-danger</code></td>
 <td>Красный значок. Указывает на опасное или потенциально отрицательное действие</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_badges.php">Badges</a></td>
 </tr>
 <tr>
 <td><code>.badge-dark</code></td>
 <td>Тёмный значок. Темно-серый окно оповещения</td>
-<td></td>
 <td><a target="_blank" href="bootstrap_badges.php">Badges</a></td>
 </tr>
 <tr>
