@@ -6,7 +6,7 @@ Good resours: https://hackerthemes.com/bootstrap-cheatsheet/
 Information from the site: https://html5css.ru/bootstrap4/bootstrap_ref_all_classes.php
 
 <div class="w3-responsive">
-<table class="w3-table-all notranslate" id="myTable">
+<table class="w3-table-all notranslate" id="myTable" width="100%">
 <thead>
 <tr class="w3-white">
 <th style="width:40%;cursor:pointer;user-select:none;">Class <i class="fa fa-sort" style="font-size:13px;"></i></th>
